@@ -78,6 +78,6 @@ class PersonServiceImplTest {
     @Test
     void deleteById() {
         personService.deleteById("67dd0ba701742028a2d8b1a1");
-        System.out.println("测试");
+        System.out.println("测试中");
     }
 }
