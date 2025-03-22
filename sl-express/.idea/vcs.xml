@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/sl-express-common" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/sl-express-gateway" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/sl-express-mq" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/sl-express-ms-base/sl-express-ms-base-api" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/sl-express-ms-base/sl-express-ms-base-domain" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/sl-express-ms-base/sl-express-ms-base-service" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/sl-express-ms-carriage/sl-express-ms-carriage-api" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/sl-express-ms-carriage/sl-express-ms-carriage-domain" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/sl-express-ms-carriage/sl-express-ms-carriage-service" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/sl-express-ms-oms/sl-express-ms-oms-api" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/sl-express-ms-oms/sl-express-ms-oms-domain" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/sl-express-ms-oms/sl-express-ms-oms-service" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/sl-express-ms-service-scope/sl-express-ms-service-scope-api" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/sl-express-ms-service-scope/sl-express-ms-service-scope-domain" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/sl-express-ms-service-scope/sl-express-ms-service-scope-service" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/sl-express-ms-transport/sl-express-ms-transport-api" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/sl-express-ms-transport/sl-express-ms-transport-domain" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/sl-express-ms-transport/sl-express-ms-transport-service" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/sl-express-ms-user/sl-express-ms-user-api" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/sl-express-ms-user/sl-express-ms-user-domain" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/sl-express-ms-user/sl-express-ms-user-service" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/sl-express-parent" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/sl-express-web/sl-express-ms-web-customer" vcs="Git" />
+  </component>
+</project>

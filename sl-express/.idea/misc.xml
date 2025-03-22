@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="EntryPointsManager">
+    <list size="1">
+      <item index="0" class="java.lang.String" itemvalue="org.springframework.beans.factory.annotation.Autowired" />
+    </list>
+  </component>
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/sl-express-gateway/pom.xml" />
+        <option value="$PROJECT_DIR$/sl-express-parent/pom.xml" />
+        <option value="$PROJECT_DIR$/sl-express-web/sl-express-ms-web-customer/pom.xml" />
+        <option value="$PROJECT_DIR$/sl-express-ms-user/sl-express-ms-user-service/pom.xml" />
+        <option value="$PROJECT_DIR$/sl-express-ms-user/sl-express-ms-user-domain/pom.xml" />
+        <option value="$PROJECT_DIR$/sl-express-ms-user/sl-express-ms-user-api/pom.xml" />
+        <option value="$PROJECT_DIR$/sl-express-common/pom.xml" />
+        <option value="$PROJECT_DIR$/sl-express-ms-oms/sl-express-ms-oms-api/pom.xml" />
+        <option value="$PROJECT_DIR$/sl-express-ms-oms/sl-express-ms-oms-domain/pom.xml" />
+        <option value="$PROJECT_DIR$/sl-express-ms-oms/sl-express-ms-oms-service/pom.xml" />
+        <option value="$PROJECT_DIR$/sl-express-mq/pom.xml" />
+        <option value="$PROJECT_DIR$/sl-express-ms-base/sl-express-ms-base-service/pom.xml" />
+        <option value="$PROJECT_DIR$/sl-express-ms-base/sl-express-ms-base-domain/pom.xml" />
+        <option value="$PROJECT_DIR$/sl-express-ms-base/sl-express-ms-base-api/pom.xml" />
+        <option value="$PROJECT_DIR$/sl-express-ms-carriage/sl-express-ms-carriage-api/pom.xml" />
+        <option value="$PROJECT_DIR$/sl-express-ms-carriage/sl-express-ms-carriage-domain/pom.xml" />
+        <option value="$PROJECT_DIR$/sl-express-ms-carriage/sl-express-ms-carriage-service/pom.xml" />
+        <option value="$PROJECT_DIR$/sl-express-sdn/pom.xml" />
+        <option value="$PROJECT_DIR$/sl-express-demo/sl-express-sdn/pom.xml" />
+        <option value="$PROJECT_DIR$/sl-express-demo/sl-express-ms-transport-service/pom.xml" />
+        <option value="$PROJECT_DIR$/sl-express-ms-transport/sl-express-ms-transport-api/pom.xml" />
+        <option value="$PROJECT_DIR$/sl-express-ms-transport/sl-express-ms-transport-domain/pom.xml" />
+        <option value="$PROJECT_DIR$/sl-express-ms-transport/sl-express-ms-transport-service/pom.xml" />
+        <option value="$PROJECT_DIR$/sl-express-demo/sl-express-mongodb/sl-express-mongodb/pom.xml" />
+        <option value="$PROJECT_DIR$/sl-express-ms-service-scope/sl-express-ms-service-scope-api/pom.xml" />
+        <option value="$PROJECT_DIR$/sl-express-ms-service-scope/sl-express-ms-service-scope-domain/pom.xml" />
+        <option value="$PROJECT_DIR$/sl-express-ms-service-scope/sl-express-ms-service-scope-service/pom.xml" />
+      </list>
+    </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/sl-express-demo/sl-express-ms-transport-service/pom.xml" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
